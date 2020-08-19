@@ -20,3 +20,5 @@ At least one of the transactionId or date must be provided.
 
 In mem database H2 is used and 
 **http://localhost:8080/exchange/h2** is the url for H2 console
+
+Lombok is used in this project.
